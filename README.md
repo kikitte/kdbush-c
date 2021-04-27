@@ -1,0 +1,1 @@
+A C99 port of [kdbush](https://github.com/mourner/kdbush/tree/v4), a fast static spatial index of 2D points.
